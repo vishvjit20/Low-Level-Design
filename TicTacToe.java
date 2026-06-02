@@ -233,6 +233,7 @@ class Game {
 
             turn = 1 - turn;
         }
+        sc.close();
     }
 }
 
